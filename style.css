@@ -2,7 +2,7 @@
 /* ------- All light Mode color ------- */
 
 :root {
-    --body_bg: fixed linear-gradient(140deg, rgba(135,103,255,1) 0%, rgba(255,43,43,1) 100%) no-repeat;
+    --body_bg: red;
     --post_bg: hsl(0, 0%, 20%);
     --text_cl: #ffff;
     --text_bg: hsl(0, 0%, 30%);
