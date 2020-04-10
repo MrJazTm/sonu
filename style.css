@@ -2,7 +2,7 @@
 /* ------- All light Mode color ------- */
 
 :root {
-    --body_bg: blue;
+  
     --post_bg: hsl(0, 0%, 20%);
     --text_cl: #ffff;
     --text_bg: hsl(0, 0%, 30%);
